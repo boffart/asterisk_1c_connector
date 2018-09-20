@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="Catalog.Пользователи" id="001721f8-bbcd-49a3-af0d-1b59f71f1f5c" configVersion="7b15d45728f0eb30231a1feb7f4c02f797f40759">
+			<Metadata name="Catalog.Пользователи.Attribute.ИдентификаторПользователяИБ" id="e09564db-d8b7-47e0-84a8-9716039d5f4b"/>
+		</Metadata>
+		<Metadata name="CommonModule.МИКО_тИнтеграция1СТелефонияКлиент" id="5b6678ec-304e-49a6-bfb2-c61f1803bbf0" configVersion="a98d3579d68b18db36982f4c7aaad1c18cbd5df1"/>
+		<Metadata name="CommonModule.МИКО_тИнтеграция1СТелефонияКлиент.Module" id="5b6678ec-304e-49a6-bfb2-c61f1803bbf0.0" configVersion="c75348a0291230a607cbfe507ad811a24a5e9259"/>
+		<Metadata name="CommonModule.МИКО_тИнтеграция1СТелефонияСервер" id="3fca40a0-8546-442d-bc71-eb2e5d501ad1" configVersion="ed9d41339e4c85d9deb1a404deaa6ff79bee1f3f"/>
+		<Metadata name="CommonModule.МИКО_тИнтеграция1СТелефонияСервер.Module" id="3fca40a0-8546-442d-bc71-eb2e5d501ad1.0" configVersion="51f8ee4579ae86d7fd1ebb83c734c174a98b0420"/>
+		<Metadata name="CommonPicture.МИКО_Телефония" id="975f8ef9-0ea2-4fd7-9682-55bba212acb6" configVersion="de1354ff23e0c502302712e0f0261be01f5b5ee5"/>
+		<Metadata name="CommonPicture.МИКО_Телефония.Picture" id="975f8ef9-0ea2-4fd7-9682-55bba212acb6.0" configVersion="b63d50a8894fd3a2f327c2565765f0978d487c62"/>
+		<Metadata name="Configuration.AsteriskConnector" id="eb88bced-b35e-476c-8e4c-18c6dd6ab296" configVersion="5c8ff0dc25e47f1bb28d65951e7e980d48e4c846"/>
+		<Metadata name="Configuration.AsteriskConnector.ManagedApplicationModule" id="0d25de62-68df-4a2f-a1cc-a184e09f9113.6" configVersion="6358bf63857c4aa06136c80d74eb9e2fdbeab553"/>
+		<Metadata name="DataProcessor.МИКО_тПодсистемаУведомлений" id="216ff6f0-fcbf-45fe-a33e-8bd72f066362" configVersion="b19a98c53b8096a085f05def0d0b20392990d7b4">
+			<Metadata name="DataProcessor.МИКО_тПодсистемаУведомлений.Command.НастройкиТелефонии" id="57abd7a4-9f1d-40a7-a140-72437a2a17e9"/>
+		</Metadata>
+		<Metadata name="DataProcessor.МИКО_тПодсистемаУведомлений.Command.НастройкиТелефонии.CommandModule" id="57abd7a4-9f1d-40a7-a140-72437a2a17e9.2" configVersion="6703aae38656d2d4e01e7981bd07768db3a9c0f2"/>
+		<Metadata name="DataProcessor.МИКО_тПодсистемаУведомлений.Form.Форма" id="6ddf55eb-7f75-4d5a-8bab-2edc37c01ecb" configVersion="4e2a16c8602e1ce5af3c5b0119a77ff317aaae4c"/>
+		<Metadata name="DataProcessor.МИКО_тПодсистемаУведомлений.Form.Форма.Form" id="6ddf55eb-7f75-4d5a-8bab-2edc37c01ecb.0" configVersion="121f342ef9feb505ed0eb6d13bd99ca641556448"/>
+		<Metadata name="HTTPService.МИКО_тAsteriskAmiEvents" id="2e862e8f-ba6a-4b9f-88b5-a2923516e96b" configVersion="856571dd20a84057be942cda5dac2050f27bc28b">
+			<Metadata name="HTTPService.МИКО_тAsteriskAmiEvents.URLTemplate.push" id="6e03c835-89a8-4ed9-b769-036c2848ba56"/>
+			<Metadata name="HTTPService.МИКО_тAsteriskAmiEvents.URLTemplate.push.Method.event" id="a1cc004e-9707-470e-91b9-c40480d1f67d"/>
+		</Metadata>
+		<Metadata name="HTTPService.МИКО_тAsteriskAmiEvents.Module" id="2e862e8f-ba6a-4b9f-88b5-a2923516e96b.0" configVersion="32e609426fafa5a75723dd7fe0654b96bdab1bf7"/>
+		<Metadata name="Language.Русский" id="87367669-a093-44c5-b431-18301de660e6" configVersion="709ba4fbe1a4b53709d8ccae95d362c42a60d4fe"/>
+		<Metadata name="Role.МИКО_тТелефония" id="64ff03b4-9067-44c7-adcf-5a21c6d76caf" configVersion="915815d7b4395cee41ead39cb6e277cbb1455a26"/>
+		<Metadata name="Role.МИКО_тТелефония.Rights" id="64ff03b4-9067-44c7-adcf-5a21c6d76caf.0" configVersion="2403defd6d7a8c68d0396b22a408febe1005cef1"/>
+		<Metadata name="Role.ПолныеПрава" id="0fd6f1d0-de25-4466-b889-35a5eda93821" configVersion="7527863c9d8eba10e6cec0ce70c3e59de06dbce1"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="0fd6f1d0-de25-4466-b889-35a5eda93821.0" configVersion="3dc038f6e170c9e3dea3f6d23a4b5aa523a97429"/>
+		<Metadata name="Subsystem.МИКО_тAsterisk_Events" id="667b4d52-6c52-4803-86c7-5bd137a37e13" configVersion="823adc97ce13eff3fdd2ac67ec92db56487d701d"/>
+		<Metadata name="Subsystem.МИКО_тAsterisk_Events.CommandInterface" id="667b4d52-6c52-4803-86c7-5bd137a37e13.1" configVersion="dcba3760af95151e7df305bfa9bf1930ed1cd58b"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
